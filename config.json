@@ -1,0 +1,12 @@
+{
+  "DatabaseInfo": {
+    "Host": "210.4.126.35",
+    "EmployerDatabaseName": "UbidyServicesEmployersDatabase",
+    "AgencyDatabaseName": "UbidyServicesAgenciesDatabase",
+    "AuctionDatabaseName": "UbidyServicesAuctionsDatabase",
+    "EngagementDatabaseName": "UbidyServicesEngagementDatabase",
+    "Port": "55107",
+    "Username": "sa",
+    "Password": "Cl@rk2017"
+  }
+}
